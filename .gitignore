@@ -1,0 +1,8 @@
+target/
+.idea/
+config.json
+.classpath
+.project
+.DS_Store
+.ensime
+.ensime_cache/
